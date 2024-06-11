@@ -6,5 +6,5 @@ This Python project fetches and analyzes COVID-19 death statistics. It uses the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/covid19-deaths-analysis.git
+   git clone https://github.com/richwgolob/covid19-deaths-analysis.git
    cd covid19-deaths-analysis
