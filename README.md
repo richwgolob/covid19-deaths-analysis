@@ -7,6 +7,8 @@ This project analyzes COVID-19 death data to provide insights into the global pa
 1. Clone this repository to your local machine.
 2. Extract the compressed data file (`owid-covid-data.zip`) to access the COVID-19 death data.
 
+pip install -r requirements.txt
+
 ## Usage
 
 1. Open the `covid_analysis.py` script in your preferred Python environment.
